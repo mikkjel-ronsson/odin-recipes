@@ -1,0 +1,1 @@
+Goal here is to get a better grasp on HTML, thanks to the Odin Project. I'll update once I've finished this lesson and can reflect more on my strengths & weaknesses. 
